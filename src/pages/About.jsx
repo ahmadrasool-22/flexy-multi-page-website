@@ -2,7 +2,7 @@ import Header from  "../components/HEADER";
 
 function About(){
   return(
-    <section className="h-screen w-full bg-gradient-to-r from-purple-700 to-indigo-900 ">
+    <section className="h-auto w-full bg-gradient-to-r from-purple-700 to-indigo-900 ">
       <Header></Header>
     <div className="mx-auto text-center py-8 w-1/2">
       <h1 className="text-white font-bold text-2xl md:text-3xl lg:text-5xl pb-3">FLE<span className="text-yellow-400 font-sans font-bold">XY</span></h1>
